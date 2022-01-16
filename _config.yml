@@ -1,7 +1,7 @@
 title: Stephan's Jekyll Blog
 markdown: kramdown
 url: ""
-baseurl: ""
+baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
