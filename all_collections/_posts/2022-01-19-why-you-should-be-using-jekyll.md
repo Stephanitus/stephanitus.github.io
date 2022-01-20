@@ -16,3 +16,5 @@ Setting up Jekyll is usually a breeze depending on the environment. In order to 
 ## Developing With Jekyll
 
 The primary appeal of Jekyll is the ability to make appealing web pages just by writing in basic markdown. Creating new pages on your website is as easy as creating a new markdown file, and declaring what the layout of the generated web page should be.
+
+Jekyll is also the perfect tool for setting up websites using Github Pages. Github Pages offers completely free hosting and is built to be used with Jekyll. All you have to do is properly configure the repository, and updates can be easily made to your Jekyll website through simple git commits.
