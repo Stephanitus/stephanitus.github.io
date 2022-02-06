@@ -2,7 +2,7 @@
 layout: post
 title: Why you should be using Jekyll
 date: 2022-01-19 11:00:00
-categories: [jekyll, Ruby]
+categories: [Jekyll, Ruby]
 ---
 
 ## Summary
