@@ -25,7 +25,7 @@ After installing Vagrant and Virtualbox, navigate to a new directory in powershe
 
 ```
 mkdir UbuntuSetup; cd UbuntuSetup
-vagrant init hashicorp/bionic64
+vagrant init stephanitus/xfce
 ```
 
 You can choose any box you'd like from the cloud box catalogue. Boxes will have different operating systems and preinstalled software.
@@ -55,5 +55,5 @@ You just need to remember to delete the box file that Vagrant used to setup the 
 vagrant box list
 
 // Delete any box with
-vagrant box remove hashicorp/bionic64
+vagrant box remove stephanitus/xfce
 ```
