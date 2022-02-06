@@ -9,13 +9,13 @@ One of the first things I do when I set up a new computer is customize my termin
 
 Here's an example of my current terminal
 
-![Terminal](/terminal.png)
+![Terminal](/assets/img/terminal.png)
 
 ## How to customize your terminal
 
 First off, you're going to want to download "Windows Terminal Preview," which is available through the "Microsoft Store" app which ships with the Windows 10/11 operating system.
 
-![Microsoft Store](/storepage.png)
+![Microsoft Store](/assets/img/storepage.png)
 
 ## Downloading a new font
 
