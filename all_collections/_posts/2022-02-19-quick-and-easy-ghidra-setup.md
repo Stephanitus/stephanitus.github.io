@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick and Easy Ghidra Setup
-date: 2022-02-19 17:00:00
+date: 2022-02-18 17:00:00
 categories: [Reverse Engineering, Dev Tools]
 ---
 
